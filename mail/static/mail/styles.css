@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.second-box {
+    margin-bottom: -0.5px;
+}
+
+.small {
+    font-size: 95%;
+}
+
+.border:hover {
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    border-color: rgba(32, 33, 36, 0.28);
+}
